@@ -21,9 +21,13 @@ de dialogo donde se pregunta que tabla desea visualizar. El usuario debe digitar
 contener solo números, esto se conoce como validación de datos.
 Luego que ha digitado el número de la tabla correctamente, se muestra un mensaje preguntando a el usuario si desea llevar ver otra tabla de multiplicar, si el usuario responde si se le retorna 
 el dialogo donde se digita el número, si no digita ningún número y simplemente da clic para continuar, por defecto le muestra 
-la tabla del 7 y nuevamente se muestra un dialogo preguntando si la respuesta es no termina la ejecución.
-#### Imagen de ejemplo:
-![TMulti](https://user-images.githubusercontent.com/101747799/176576416-170e3b7a-eb1b-4ee2-bac6-3b5c9ccf184a.png)
+la tabla del 10 y nuevamente se muestra un dialogo preguntando si la respuesta es no termina la ejecución.
+#### Imágenes de ejemplo:
+![imagen](https://user-images.githubusercontent.com/101747799/176983049-bf14d87f-37dd-476c-ab8a-fb9c59d6f32b.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983078-4beef4ba-d01e-489d-a327-83602c1c1103.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983104-2a66713f-813c-4e5d-8393-c748951d1483.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983141-4c03df27-22d1-4264-b8f6-ad5723507d24.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983162-80e88841-5ea4-45b5-9f25-3cc35032010d.png)
 
 
 ### :memo: V0_Eje(Objetos)_CarritoCompras:
