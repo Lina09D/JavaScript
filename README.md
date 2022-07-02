@@ -86,7 +86,7 @@ contener solo letras, esto se conoce como validación de datos.
 Luego que ha digitado el nombre correctamente, nuevamente se muestran cuadros de diálogos pidiendo el 
 nombre, la cantidad y el precio que tendrá el producto que se desea vender, en los anteriores diálogos también se 
 realiza la validación de los datos para un mejor funcionamiento.
-Se muestra un dialogo preguntando a el vendedor si desea llevar otro producto, si el vendedor responde si se le retornara 
+Se muestra un dialogo preguntando a el vendedor si desea vender otro producto, si el vendedor responde si se le retornara 
 el dialogo donde se ingresa otro producto con sus respectivos datos, si la respuesta es no, muestra un mensaje donde se efectúa los datos ingresados.
 Después muestra otro cuadro de dialogo preguntando el nombre del cliente. El cliente debe digitar su nombre, el nombre no debe contener números, debe
 contener solo letras, esto se conoce como validación de datos.
@@ -115,22 +115,22 @@ conteniendo está el nombre del producto comprado, la cantidad y el tope de pago
 
 
 ### :memo: V2_Eje(Clases)_CarritoCompras:
-En este ejercicio se desarrolla un VendedorCliente con clases, cuando se realiza la ejecución del código, sale un cuadro
-de dialogo donde se le pregunta el nombre al Vendedor. El Vendedor debe digitar su nombre, el nombre no debe contener números, debe
+En este ejercicio se desarrolla un GestorCliente con clases, cuando se realiza la ejecución del código, nos muestra que se encuentran 6 productos cargados esto se debe a que importamos un documento.json en el cual digitamos algunos productos, también nos da la opción de ingrasar mas productos, cuando  sale un cuadro
+de dialogo donde se le pregunta el nombre al Gestor, si desea grabar un nuevo producto el cual no debe contener números, debe
 contener solo letras, esto se conoce como validación de datos.
-Luego que ha digitado el nombre correctamente, nuevamente se muestran cuadros de diálogos pidiendo el 
-nombre, la cantidad y el precio que tendrá el producto que se desea vender, en los anteriores diálogos también se 
+Luego que ha digitado el nombre del nuevo producto correctamente, nuevamente se muestran cuadros de diálogos pidiendo el 
+código, la cantidad y el precio que tendrá el producto que se desea vender, en los anteriores diálogos también se 
 realiza la validación de los datos para un mejor funcionamiento.
-Se muestra un dialogo preguntando a el vendedor si desea llevar otro producto, si el vendedor responde si se le retornara 
-el dialogo donde se ingresa otro producto con sus respectivos datos, si la respuesta es no, muestra un mensaje donde se efectúa los datos ingresados.
-Después muestra otro cuadro de dialogo preguntando el nombre del cliente. El cliente debe digitar su nombre, el nombre no debe contener números, debe
+Se muestra un dialogo preguntando a el vendedor si desea grabar otro producto, si el vendedor responde si se le retornara 
+el dialogo donde se ingresa otro producto con sus respectivos datos, si la respuesta es no, muestra un mensaje donde pregunta si existe un cliente, si existe muestra un mensaje para digitar el nombre del cliente, el nombre debe digitar su nombre, el nombre no debe contener números, debe
 contener solo letras, esto se conoce como validación de datos.
-Luego que ha digitado el nombre correctamente, nuevamente se muestran cuadros de diálogos pidiendo el 
-nombre y la cantidad del producto que desea llevar, en los anteriores diálogos también se 
+Luego que ha digitado el nombre correctamente, se efectúa los datos ingresados por el gestor y los que se cargan por medio del documento.json.
+Después muestra otros cuadros de diálogos pidiendo el 
+código y la cantidad del producto que desea llevar, en los anteriores diálogos también se 
 realiza la validación de los datos para un mejor funcionamiento.
 Se muestra un dialogo preguntando a el cliente si desea llevar otro producto, si el usuario responde si se le retornara 
-el dialogo donde se ingresa el producto y la cantidad, si la respuesta es no, muestra un mensaje donde se efectúa los datos tipo factura, 
-conteniendo está el nombre del producto comprado, la cantidad y el tope de pago. Luego, se muestra un mensaje de agradecimiento por la compra y finaliza la ejecución.
+el dialogo donde se ingresa el código y la cantidad, si la respuesta es no, muestra un mensaje donde se efectúa los datos tipo factura, 
+conteniendo está el nombre del producto comprado, el código, la cantidad, el precio de la cantidad de los productos, el tope de pago y mansaje de agradecimiento por la compra. Luego, no retorna el cuadro de dialogo si exite un nuevo cliente, si la repuesta es si retorna lo anterior, si la respuesta es no fianaliza la ejecución. 
 #### Imágenes de ejemplo:
 ![imagen](https://user-images.githubusercontent.com/101747799/176984504-6bc05e5e-6fe5-457c-9fcd-a05fe8f903ba.png)
 ![imagen](https://user-images.githubusercontent.com/101747799/176984273-5c71e884-f79a-4c5f-9ca8-db669903f29e.png)
