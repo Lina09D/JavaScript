@@ -61,6 +61,16 @@ un mensaje donde se efectúa los datos ingresados y
 el valor de la compra realizada. Después muestra otro cuadro de dialogo preguntando si existe otro cliente, con respuesta si 
 retorna nuevamente para digitar nombre del nuevo cliente, nombre, unidades y precio del producto a comprar, con respuesta no termina la ejecución.
 #### Imagen de ejemplo:
+![imagen](https://user-images.githubusercontent.com/101747799/176983377-914bde09-a942-42e5-b074-c4502c0034fb.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983387-d50f1114-5693-4773-befc-61549948b63a.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983393-7fa36553-6db5-495c-a481-354fcb848b37.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983412-2cc87005-46dc-4d00-80fa-93e7b9ff32f1.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983418-423216a4-9b26-4ff3-be76-1f32de0337c4.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983438-81c70ee6-bbd9-44f1-9282-d2be1f93ddbb.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983453-e5c686ab-5738-456e-8f6c-338a5cc830e0.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983468-5a28fb2d-4c1b-40e6-bf0f-25190721d293.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983480-c1930621-a664-4e51-92ab-6248820ea790.png)
+
 ![V1_Clases](https://user-images.githubusercontent.com/101747799/176568544-cb326690-befd-4b75-9db5-94722d2f827e.png)
 
 
