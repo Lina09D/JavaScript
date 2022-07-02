@@ -113,8 +113,6 @@ conteniendo está el nombre del producto comprado, la cantidad y el tope de pago
 ![imagen](https://user-images.githubusercontent.com/101747799/176984143-cabc3082-a75b-4f07-97b7-a1110616fb72.png)
 ![imagen](https://user-images.githubusercontent.com/101747799/176984156-8e442959-7d03-4769-93f3-90d6ef617224.png)
 
-![V1a_Clases](https://user-images.githubusercontent.com/101747799/176572667-33aa8778-2462-4455-a3eb-f118661c224e.png)
-
 
 ### :memo: V2_Eje(Clases)_CarritoCompras:
 En este ejercicio se desarrolla un VendedorCliente con clases, cuando se realiza la ejecución del código, sale un cuadro
@@ -134,6 +132,23 @@ Se muestra un dialogo preguntando a el cliente si desea llevar otro producto, si
 el dialogo donde se ingresa el producto y la cantidad, si la respuesta es no, muestra un mensaje donde se efectúa los datos tipo factura, 
 conteniendo está el nombre del producto comprado, la cantidad y el tope de pago. Luego, se muestra un mensaje de agradecimiento por la compra y finaliza la ejecución.
 #### Imágenes de ejemplo:
+![imagen](https://user-images.githubusercontent.com/101747799/176984504-6bc05e5e-6fe5-457c-9fcd-a05fe8f903ba.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984273-5c71e884-f79a-4c5f-9ca8-db669903f29e.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984287-ebbf9b57-dffd-45da-b999-a3f7e221ea3a.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984297-3db0eb97-7ec4-4f6a-87d2-82f3eb2d648e.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984315-9505e0f8-1c26-4732-9734-613829cab5f0.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984331-f8965000-d7fb-47cd-8ecb-ddd41f62b28a.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984338-ac924e19-565e-4d86-9792-1f9e76252be9.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984356-8e939788-8a73-4f73-a71f-af2050fc1268.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984382-1abf42c7-cd73-4730-b2c3-9cb9eb6073af.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984399-d56a7353-daee-4312-abb3-0ac59a7ac751.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984407-1df97cb1-dbfe-444f-9b7d-a51e29c5175f.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984426-7b1ef57c-b94c-4ea8-81e3-3dae2bdca46f.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984443-637410d9-0745-4eaf-ba7c-ee8895b3ab54.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984462-1b1c7851-b379-40a0-841c-af4332f65303.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984471-f9c40ee2-5682-44c0-863e-1052be947b06.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984484-7ef5f9e8-7b27-440d-a59c-0dddc71bc709.png)
+
 ![image](https://user-images.githubusercontent.com/101747799/176960761-012b8bae-1377-447a-aae3-b9cd9d7e5d72.png)
 
 <p> </p>
