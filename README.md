@@ -76,8 +76,7 @@ retorna nuevamente para digitar nombre del nuevo cliente, nombre, unidades y pre
 ![imagen](https://user-images.githubusercontent.com/101747799/176983677-39f4ec36-5136-428d-b470-6cad2eaeee68.png)
 ![imagen](https://user-images.githubusercontent.com/101747799/176983690-d58d8e38-c3c1-48dd-a18c-40184e76a479.png)
 ![imagen](https://user-images.githubusercontent.com/101747799/176983703-c9030d62-1708-427d-ac29-91187150aead.png)
-
-![V1_Clases](https://user-images.githubusercontent.com/101747799/176568544-cb326690-befd-4b75-9db5-94722d2f827e.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983815-4f7878ef-8e19-4f6d-88be-0411a7602358.png)
 
 
 ### :memo: V1a_Eje(Clases)_CarritoCompras:
