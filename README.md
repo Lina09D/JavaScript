@@ -41,8 +41,11 @@ efectúa la validación de los datos para un mejor funcionamiento.
 Finalmente se muestra un dialogo preguntando a el usuario si desea llevar otro producto, si el usuario responde si se le retornara 
 el dialogo donde se elige el producto, si la respuesta es no termina la ejecución.
 #### Imágenes de ejemplo:
-![V0_Objetos](https://user-images.githubusercontent.com/101747799/176563966-91b72947-125d-4708-b65d-c7922e024122.png)
-![imagen](https://user-images.githubusercontent.com/101747799/176564390-098fa8f8-ce6d-4591-8322-5fc0da2a243a.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983256-9b3aa9fd-92d3-4802-985e-1440145f179b.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983270-93a0cde8-bc22-48df-8828-36bf4a0c0437.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983278-e0783a41-09ae-4484-b094-8f7c4b10cd23.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983286-195a2b95-3e00-455b-9fb7-b927ee65f6ed.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983302-0940a263-5020-4447-9c9e-4efd1b9db321.png)
 
 
 ### :memo: V1_Eje(Clases)_CarritoCompras:
