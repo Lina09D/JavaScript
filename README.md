@@ -149,8 +149,6 @@ conteniendo está el nombre del producto comprado, el código, la cantidad, el p
 ![imagen](https://user-images.githubusercontent.com/101747799/176984471-f9c40ee2-5682-44c0-863e-1052be947b06.png)
 ![imagen](https://user-images.githubusercontent.com/101747799/176984484-7ef5f9e8-7b27-440d-a59c-0dddc71bc709.png)
 
-![image](https://user-images.githubusercontent.com/101747799/176960761-012b8bae-1377-447a-aae3-b9cd9d7e5d72.png)
-
 <p> </p>
 
 
