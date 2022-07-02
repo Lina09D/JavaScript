@@ -70,6 +70,12 @@ retorna nuevamente para digitar nombre del nuevo cliente, nombre, unidades y pre
 ![imagen](https://user-images.githubusercontent.com/101747799/176983453-e5c686ab-5738-456e-8f6c-338a5cc830e0.png)
 ![imagen](https://user-images.githubusercontent.com/101747799/176983468-5a28fb2d-4c1b-40e6-bf0f-25190721d293.png)
 ![imagen](https://user-images.githubusercontent.com/101747799/176983480-c1930621-a664-4e51-92ab-6248820ea790.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983605-d1097816-735c-456d-954d-881894dcbb68.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983629-c72b354e-1ccf-4997-ad9c-31e70dd6b62b.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983670-a972cfa1-3b4b-4568-8f6e-f188e4790d7c.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983677-39f4ec36-5136-428d-b470-6cad2eaeee68.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983690-d58d8e38-c3c1-48dd-a18c-40184e76a479.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983703-c9030d62-1708-427d-ac29-91187150aead.png)
 
 ![V1_Clases](https://user-images.githubusercontent.com/101747799/176568544-cb326690-befd-4b75-9db5-94722d2f827e.png)
 
