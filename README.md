@@ -60,7 +60,7 @@ el dialogo donde se ingresa el producto, si la respuesta es no, muestra
 un mensaje donde se efectúa los datos ingresados y 
 el valor de la compra realizada. Después muestra otro cuadro de dialogo preguntando si existe otro cliente, con respuesta si 
 retorna nuevamente para digitar nombre del nuevo cliente, nombre, unidades y precio del producto a comprar, con respuesta no termina la ejecución.
-#### Imagen de ejemplo:
+#### Imágenes de ejemplo:
 ![imagen](https://user-images.githubusercontent.com/101747799/176983377-914bde09-a942-42e5-b074-c4502c0034fb.png)
 ![imagen](https://user-images.githubusercontent.com/101747799/176983387-d50f1114-5693-4773-befc-61549948b63a.png)
 ![imagen](https://user-images.githubusercontent.com/101747799/176983393-7fa36553-6db5-495c-a481-354fcb848b37.png)
@@ -96,7 +96,7 @@ realiza la validación de los datos para un mejor funcionamiento.
 Se muestra un dialogo preguntando a el cliente si desea llevar otro producto, si el usuario responde si se le retornara 
 el dialogo donde se ingresa el producto y la cantidad, si la respuesta es no, muestra un mensaje donde se efectúa los datos tipo factura, 
 conteniendo está el nombre del producto comprado, la cantidad y el tope de pago. Luego, se muestra un mensaje de agradecimiento por la compra y finaliza la ejecución.
-#### Imagen de ejemplo:
+#### Imágenes de ejemplo:
 ![imagen](https://user-images.githubusercontent.com/101747799/176983915-4dd21c6b-20ff-4b9b-b98f-076566b321e1.png)
 ![imagen](https://user-images.githubusercontent.com/101747799/176983973-b4b0cea5-59a4-4c0f-861c-7955b27cfbeb.png)
 ![imagen](https://user-images.githubusercontent.com/101747799/176983987-1028ff48-5942-42a2-a387-3ed793fee273.png)
