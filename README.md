@@ -97,6 +97,22 @@ Se muestra un dialogo preguntando a el cliente si desea llevar otro producto, si
 el dialogo donde se ingresa el producto y la cantidad, si la respuesta es no, muestra un mensaje donde se efectúa los datos tipo factura, 
 conteniendo está el nombre del producto comprado, la cantidad y el tope de pago. Luego, se muestra un mensaje de agradecimiento por la compra y finaliza la ejecución.
 #### Imagen de ejemplo:
+![imagen](https://user-images.githubusercontent.com/101747799/176983915-4dd21c6b-20ff-4b9b-b98f-076566b321e1.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983973-b4b0cea5-59a4-4c0f-861c-7955b27cfbeb.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176983987-1028ff48-5942-42a2-a387-3ed793fee273.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984009-d3fd55ca-be8d-4d38-9f81-5acf4011393f.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984027-8e2428b3-490e-4ab6-8060-7b3b7adce246.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984042-dfc0f6c7-59a2-4fca-ba20-70eac4219014.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984051-e52878f1-cd86-4d44-909b-8428326a0ce1.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984073-4be8af7b-95f0-4912-b9cd-a8bf4302d65e.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984088-d6c117c7-f944-49d6-811c-cab4ed2a79b5.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984094-e3e5a68a-6df2-4038-a1f6-b11e0bd5067b.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984106-c9fb7ca9-74d8-43f8-996b-0ef974984173.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984117-7e5be7aa-a537-4bed-8247-9f097a335095.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984133-868b42c8-6267-4950-9a4a-6a3eb7cf03ed.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984143-cabc3082-a75b-4f07-97b7-a1110616fb72.png)
+![imagen](https://user-images.githubusercontent.com/101747799/176984156-8e442959-7d03-4769-93f3-90d6ef617224.png)
+
 ![V1a_Clases](https://user-images.githubusercontent.com/101747799/176572667-33aa8778-2462-4455-a3eb-f118661c224e.png)
 
 
